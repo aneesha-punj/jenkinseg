@@ -1,0 +1,7 @@
+C:\Users\Aneesha\source\repos\PracticeCodility\PracticeCodility\bin\Debug\PracticeCodility.exe.config
+C:\Users\Aneesha\source\repos\PracticeCodility\PracticeCodility\bin\Debug\PracticeCodility.exe
+C:\Users\Aneesha\source\repos\PracticeCodility\PracticeCodility\bin\Debug\PracticeCodility.pdb
+C:\Users\Aneesha\source\repos\PracticeCodility\PracticeCodility\obj\Debug\PracticeCodility.csprojAssemblyReference.cache
+C:\Users\Aneesha\source\repos\PracticeCodility\PracticeCodility\obj\Debug\PracticeCodility.csproj.CoreCompileInputs.cache
+C:\Users\Aneesha\source\repos\PracticeCodility\PracticeCodility\obj\Debug\PracticeCodility.exe
+C:\Users\Aneesha\source\repos\PracticeCodility\PracticeCodility\obj\Debug\PracticeCodility.pdb
